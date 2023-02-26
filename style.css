@@ -6,6 +6,7 @@ body{
     width: 900px;
     height: auto;
     border: solid 3px red;
+    background-color: aqua;
 }
 header{
     display: flex;
