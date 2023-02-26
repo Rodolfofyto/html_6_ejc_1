@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 900px;
+    height: auto;
+    border: solid 3px red;
+}
+header{
+    margin: 10px;
+    border: solid 3px black;
+    height: 50px; 
+}
+nav {
+    border: solid 3px black;
+    height: 30px;
+    margin: 10px;
+}
+main{
+    margin: 10px;
+    border: solid 3px black;
+    height: 300px; 
+}
+footer{
+    margin: 10px;
+    border: solid 3px black;
+    height: 50px; 
+}
