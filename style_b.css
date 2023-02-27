@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header, aside, section, footer{
+    border: solid 2px red
+}
+header {
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 924px;
+}
+aside{
+    height: 400px;
+    width: 200px;
+}
+section{
+    height: 400px;
+    width: 700px;
+    margin-left: 20px;
+}
+main{
+    display: flex;
+    padding: 20px;
+}
+footer{
+    height: 60px;
+    margin-left: 20px;
+    width: 924px;
+}
